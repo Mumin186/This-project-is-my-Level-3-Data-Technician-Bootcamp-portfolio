@@ -93,4 +93,112 @@ In this project, I explored key data analysis and visualisation tools including 
 - Strengthened my skills in both **data analysis and visual storytelling**  
 - Built dashboards and visuals to support decision-making  
 - Learned how to connect insights to real-world business and healthcare outcomes  
-- Practised using data to answer marketing, performance, and public health questions  
+- Practised using data to answer marketing, performance, and public health questions
+
+  # 📘 Workbook 3: SQL Queries, Data Structures & Azure Integration
+
+**Status:** ✅ Complete  
+**Tools Used:** SQL, Microsoft Azure, Azure Data Studio, ER Diagrams
+
+## 📄 Description  
+This workbook demonstrates my ability to write SQL queries, understand relational data structures, and apply data modelling techniques in a business context. The tasks included interpreting data for a fictional ice cream company, identifying data types and entities, and writing SQL to retrieve and manipulate relevant business data. I also worked with Azure Data Studio to explore how relational databases are built, queried, and secured in the cloud.
+
+## 💡 Key Skills Demonstrated  
+- Used SQL to retrieve, filter, sort, and aggregate data  
+- Identified primary keys and relationships between database tables  
+- Explained relational database concepts: one-to-many and many-to-many relationships  
+- Developed entity-relationship diagrams to represent business datasets  
+- Applied data integrity principles such as normalization, data types, and constraints  
+- Explored cloud-based relational databases using Azure Data Studio  
+- Demonstrated data querying to support business insight and reporting  
+
+## ❓ Business Questions Answered with Insights  
+**How many customers made purchases in a given time period?**  
+SQL queries were used to count distinct customer records within sales date ranges.  
+
+**Which products generated the highest revenue?**  
+Aggregation queries revealed top-selling ice cream flavours based on total sales value.  
+
+**What’s the average order size by region?**  
+`GROUP BY` queries with `AVG` functions provided regional breakdowns for order volumes.  
+
+**How can Azure be used to store and secure relational business data?**  
+Azure SQL Database was recommended for scalability, encryption, and integration with data analysis tools like Power BI.
+
+## 📊 Outcome  
+- Strengthened SQL writing and query logic skills  
+- Developed structured approaches to database design using ER diagrams  
+- Applied knowledge of cloud-based relational data storage  
+- Built confidence interpreting raw data and transforming it into meaningful business insight  
+- Practised using SQL in real-world retail and product tracking scenarios  
+
+# 📘 Workbook 5: Cloud Computing, Data Laws & Azure Analytics
+
+**Status:** ✅ Complete  
+**Tools Used:** Microsoft Azure, Power BI, Azure SQL Database, Azure Synapse Analytics, Azure Data Factory
+
+## 📄 Description  
+This workbook highlights my foundational skills in cloud computing, UK data regulations, and data analysis using Microsoft Azure. Through practical tasks and research, I explored real-world use of IaaS, PaaS, SaaS, and the benefits of public, private, and hybrid cloud infrastructures. I also applied GDPR and the Data Protection Act in a business context, designed Azure-based data strategies, and explored relational and non-relational data through guided labs.
+
+## 💡 Key Skills Demonstrated  
+- Explained and compared cloud service models: IaaS, PaaS, SaaS  
+- Evaluated public, private, hybrid, and community cloud use cases  
+- Applied legal frameworks: GDPR, Data Protection Act 2018, Computer Misuse Act  
+- Identified secure and scalable Azure services for business scenarios  
+- Designed relational data models using Azure SQL Database  
+- Recommended data storage formats (CSV, JSON, Parquet) with security considerations  
+- Completed labs exploring relational, non-relational, and analytics tools in Azure  
+- Demonstrated knowledge of backup, automation, and data visualisation using Power BI  
+
+## ❓ Business Questions Answered with Insights  
+**Why should a business adopt cloud computing over traditional infrastructure?**  
+Cloud computing provides scalability, cost-efficiency, data backup, and access flexibility, reducing reliance on physical hardware.
+
+**How can Azure improve business operations for a retail pet shop like Paws & Whiskers?**  
+By using Azure SQL Database, Azure Data Factory, and Azure Synapse Analytics, the shop can store structured data, automate integration, and uncover insights into customer behaviour and sales trends.
+
+**What regulations affect how we handle customer data in the UK?**  
+The GDPR and DPA 2018 require clear consent, data minimisation, secure storage, and customer rights to access or erase personal data.
+
+**What cloud-based tools are ideal for data analysis and automation?**  
+Azure Synapse Analytics for trend analysis, Azure Machine Learning for predictive modelling, and Azure Data Factory for automating data collection.
+
+## 📊 Outcome  
+- Developed practical understanding of cloud models and data regulations  
+- Completed Azure labs reinforcing technical cloud data concepts  
+- Created structured data strategies suitable for real-world business use  
+- Strengthened ability to select and recommend appropriate cloud tools  
+- Improved skills in data modelling, compliance, and visual storytelling using Power BI  
+# 📘 Workbook 6: Python for Data Analysis & Automation
+
+**Status:** ✅ Complete  
+**Tools Used:** Python, Jupyter Notebooks, Pandas, NumPy, Matplotlib
+
+## 📄 Description  
+This workbook showcases my foundational Python skills for data analysis, automation, and basic scripting. I learned to clean, manipulate, and visualise data using Python libraries such as Pandas and Matplotlib. The tasks also involved creating user-defined functions, handling exceptions, and applying automation techniques using loops and conditional logic — all tailored for practical business data scenarios.
+
+## 💡 Key Skills Demonstrated  
+- Wrote Python scripts using variables, loops, conditionals, and functions  
+- Imported and manipulated datasets using Pandas DataFrames  
+- Applied NumPy for numerical operations and statistical analysis  
+- Created visualisations (e.g., bar charts and line graphs) using Matplotlib  
+- Cleaned and transformed raw data (e.g., handling null values, formatting)  
+- Automated repetitive tasks through for loops and conditional execution  
+- Practised exception handling to build more robust scripts  
+- Explained the role of Python in data engineering and analytics pipelines  
+
+## ❓ Business Questions Answered with Insights  
+**How can we automate data cleaning processes using Python?**  
+Python scripts were used to remove nulls, format dates, and standardise column names across datasets.
+
+**What insights can be drawn from customer and transaction data using Python?**  
+Groupby operations and visual plots revealed customer behaviour trends and sales performance.
+
+**How does Python support scalable business analysis?**  
+Python provides reusable functions and automation scripts that reduce manual effort, enabling efficient data analysis across large datasets.
+
+## 📊 Outcome  
+- Developed confidence in using Python for practical data manipulation tasks  
+- Built visualisations that clearly communicate business insights  
+- Strengthened understanding of Python as a core tool for data technicians  
+- Prepared for more advanced analytics workflows, including integration with databases and BI tools  
