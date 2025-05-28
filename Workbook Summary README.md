@@ -41,4 +41,58 @@ This project demonstrates my ability to clean, explore, and analyse business dat
 - Strengthened knowledge of **ethical and legal compliance** in handling customer information  
 - Practised summarising and communicating performance insights to business stakeholders
 
+# 📘 Workbook 2: Data Visualisation & Analysis in Tableau and Power BI  
+**Status:** ✅ Complete  
+**Tools Used:** Tableau Public, Power BI, Excel, Data Storytelling
+
+---
+
+## 📄 Description  
+In this project, I explored key data analysis and visualisation tools including **Tableau** and **Power BI**. I completed multiple data labs and analysis tasks using public datasets (Spotify, EMSI Jobs, NHS Health Data). This workbook helped build my skills in dashboard creation, identifying business insights, and understanding how to apply data in real-world scenarios.
+
+---
+
+## 💡 Key Skills Demonstrated  
+- Compared and evaluated different **Tableau versions**, including Tableau Desktop, Public, Server, and Online  
+- Built dashboards in **Tableau Public**, including bar charts and geographic maps  
+- Used **Power BI** to load, transform, and visualise data  
+- Completed Labs for:
+  - Importing and transforming data
+  - Designing reports and dashboards  
+- Gained experience using **scatter plots**, **bar charts**, and **maps** to explore patterns  
+- Practised identifying actionable business insights from datasets
+
+---
+
+## ❓ Business Questions Answered with Insights  
+
+### 🎵 Spotify Dataset (Music Industry)  
+- **Which genres are the most profitable or trending?**  
+  Pop, Rap, and Hip-Hop are the most popular genres with high profitability potential.
+  
+- **Which artists dominate the charts, and how does genre affect artist popularity?**  
+  Artists like **Drake**, who work across multiple top genres, dominate. Less popular artists tend to stick to a single genre.
+
+- **What is the relationship between popularity and danceability?**  
+  Genres like Dance, Pop, and Hip-Hop rank high in both — ideal for energetic marketing playlists. Opera and Classical are lower, better suited for relaxation or studying.
+
+### 🏥 NHS Health Data  
+- **What are the most common cancers in the UK?**  
+  **Lung and Liver Cancer** are the most common, especially among men. Stomach cancer is lower in comparison.
+
+- **How has life expectancy changed?**  
+  Life expectancy has improved for both men and women. However, men show rising blood pressure, suggesting a need for targeted heart health initiatives.
+
+- **How can the NHS use this information?**  
+  By using data-driven strategies to focus on prevention, especially for men’s cardiovascular health, and allocating resources based on gender and condition trends.
+
+---
+
+## 📊 Outcome  
+- Strengthened my skills in both **data analysis and visual storytelling**  
+- Built dashboards and visuals to support decision-making  
+- Learned how to connect insights to real-world business and healthcare outcomes  
+- Practised using data to answer marketing, performance, and public health questions  
+
+
 
