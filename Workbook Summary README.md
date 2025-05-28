@@ -42,7 +42,7 @@ This project demonstrates my ability to clean, explore, and analyse business dat
 - Practised summarising and communicating performance insights to business stakeholders
 
               
-#📘 Workbook 2: Data Visualisation & Analysis in Tableau and Power BI  
+# 📘 Workbook 2: Data Visualisation & Analysis in Tableau and Power BI  
 **Status:** ✅ Complete  
 **Tools Used:** Tableau Public, Power BI, Excel, Data Storytelling
 
